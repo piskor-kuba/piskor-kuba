@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kuba👋,  a student of computer science at Kielce University of Technology 👨‍💻 I am currently working as an intern for Samsung Electronics in Crakow in the 5G testing team.</div>  
+### <div align="center">I'm Kuba👋, a student of computer science at Kielce University of Technology 👨‍💻 I am currently working as a Junior React Developer for Smartive.app</div>  
   
 
 - 🔭 I’m currently working on an engineering thesis. 🔜  
