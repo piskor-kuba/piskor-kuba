@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kuba👋, a student of computer science at Kielce University of Technology 👨‍💻 I am currently working as a Junior React Developer for Smartive.app</div>  
   
 
-- 🔭 I’m currently working on an engineering thesis. 🔜  
+- 🔭 I’m currently studying at the Kielce University of Technology. 
   
 
 - 🌱 I’m currently learning Swift and WEB3, Smart Contract.  
