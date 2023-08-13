@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kuba👋, I am currently working as a Junior Frontend Developer for Smartive.app</div>  
   
 
-- 🔭 I’m currently working with React and learning VUE / Angular.  
+- 🔭 Working with React and learning VUE / Angular.  
   
 
 - ❓ Ask me anything related to the listed technologies.  
