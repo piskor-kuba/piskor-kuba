@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Kuba👋, a student of computer science at Kielce University of Technology 👨‍💻 I am currently working as a Junior React Developer for Smartive.app</div>  
+### <div align="center">I'm Kuba👋, I am currently working as a Junior Frontend Developer for Smartive.app</div>  
   
 
-- 🔭 I’m currently studying at the Kielce University of Technology. 
-  
-
-- 🌱 I’m currently learning Swift and WEB3, Smart Contract.  
+- 🔭 I’m currently working with React and learning VUE / Angular.  
   
 
 - ❓ Ask me anything related to the listed technologies.  
@@ -27,13 +24,13 @@
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-1024.png" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-1024.png" alt="CSS3" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-1024.png" alt="Sass" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-1024.png" alt="Sass" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" alt="JavaScript" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" alt="React" height="50" /></a>  
+<a href="https://vuejs.org" target="_blank"><img style="margin: 10px" src="https://www.cdnlogo.com/logos/v/92/vue-js.svg" alt="Vue" height="50" /></a>
+<a href="https://angular.io" target="_blank"><img style="margin: 10px" src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="Angular" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="Python" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-1024.png" alt="Swift" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-1024.png" alt="Firebase" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-1024.png" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" alt="GitLab" height="50" /></a>  
