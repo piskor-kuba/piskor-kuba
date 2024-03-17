@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kuba👋, I am currently working as a Junior Frontend Developer for Smartive.app</div>  
+### <div align="center">I'm Kuba👋, I am a Frontend Developer</div>  
   
 
 - 🔭 Working with React.  
